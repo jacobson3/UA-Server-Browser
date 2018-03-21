@@ -1,0 +1,2 @@
+5001: Parent Node Not Found
+5002: New Node Is Not Unique

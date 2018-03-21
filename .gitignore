@@ -5,6 +5,10 @@ ehthumbs.db
 # Folder config file
 Desktop.ini
 
+# LabVIEW Files
+*.aliases
+*.lvlps
+
 # Recycle Bin used on file shares
 $RECYCLE.BIN/
 
