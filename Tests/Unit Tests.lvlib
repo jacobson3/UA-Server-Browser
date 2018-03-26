@@ -37,12 +37,15 @@
 		<Item Name="Node Classes" Type="Folder">
 			<Item Name="Generic Node" Type="Folder">
 				<Item Name="Test Add to Child List.vi" Type="VI" URL="../Browser Core/Node Classes/Generic Node/Test Add to Child List.vi"/>
+				<Item Name="Test Remove From Child List.vi" Type="VI" URL="../Browser Core/Node Classes/Generic Node/Test Remove From Child List.vi"/>
 			</Item>
 			<Item Name="Generic Node Tests.vi" Type="VI" URL="../Browser Core/Node Classes/Generic Node Tests.vi"/>
 		</Item>
 		<Item Name="Server Classes" Type="Folder">
 			<Item Name="Base Tree" Type="Folder">
+				<Item Name="Test Add Node To Dictionary.vi" Type="VI" URL="../Browser Core/Server Classes/Base Tree/Test Add Node To Dictionary.vi"/>
 				<Item Name="Test Add UID To Parent List.vi" Type="VI" URL="../Browser Core/Server Classes/Base Tree/Test Add UID To Parent List.vi"/>
+				<Item Name="Test Delete Node From Dictionary.vi" Type="VI" URL="../Browser Core/Server Classes/Base Tree/Test Delete Node From Dictionary.vi"/>
 				<Item Name="Test Find Node.vi" Type="VI" URL="../Browser Core/Server Classes/Base Tree/Test Find Node.vi"/>
 				<Item Name="Test New Node.vi" Type="VI" URL="../Browser Core/Server Classes/Base Tree/Test New Node.vi"/>
 			</Item>
