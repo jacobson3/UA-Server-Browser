@@ -1,2 +1,2 @@
 5001: Node Not Found
-5002: New Node Is Not Unique
+5002: Node Is Not Unique
