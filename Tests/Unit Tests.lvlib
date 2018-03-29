@@ -47,6 +47,7 @@
 				<Item Name="Test Add Node To Dictionary.vi" Type="VI" URL="../Browser Core/Server Classes/Base Tree/Test Add Node To Dictionary.vi"/>
 				<Item Name="Test Add Parent UID To Child Node.vi" Type="VI" URL="../Browser Core/Server Classes/Base Tree/Test Add Parent UID To Child Node.vi"/>
 				<Item Name="Test Delete Node From Dictionary.vi" Type="VI" URL="../Browser Core/Server Classes/Base Tree/Test Delete Node From Dictionary.vi"/>
+				<Item Name="Test Delete Node.vi" Type="VI" URL="../Browser Core/Server Classes/Base Tree/Test Delete Node.vi"/>
 				<Item Name="Test Find Node.vi" Type="VI" URL="../Browser Core/Server Classes/Base Tree/Test Find Node.vi"/>
 				<Item Name="Test New Node.vi" Type="VI" URL="../Browser Core/Server Classes/Base Tree/Test New Node.vi"/>
 			</Item>
