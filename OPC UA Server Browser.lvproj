@@ -23,7 +23,6 @@
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
 		<Item Name="Unit Tests.lvlib" Type="Library" URL="../Tests/Unit Tests.lvlib"/>
 		<Item Name="Browser Core.lvlib" Type="Library" URL="../source/Browser Core/Browser Core.lvlib"/>
-		<Item Name="UA Browser.vi" Type="VI" URL="../../../UA Browser.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="Caraya.lvlib" Type="Library" URL="/&lt;vilib&gt;/addons/_JKI Toolkits/Caraya/Caraya.lvlib"/>

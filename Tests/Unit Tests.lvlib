@@ -51,7 +51,9 @@
 				<Item Name="Test Find Node.vi" Type="VI" URL="../Browser Core/Server Classes/Base Tree/Test Find Node.vi"/>
 				<Item Name="Test New Node.vi" Type="VI" URL="../Browser Core/Server Classes/Base Tree/Test New Node.vi"/>
 			</Item>
+			<Item Name="UA Server" Type="Folder"/>
 			<Item Name="Base Tree Tests.vi" Type="VI" URL="../Browser Core/Server Classes/Base Tree Tests.vi"/>
+			<Item Name="UA Server Tests.vi" Type="VI" URL="../Browser Core/Server Classes/UA Server Tests.vi"/>
 		</Item>
 		<Item Name="Node Classes Tests.vi" Type="VI" URL="../Browser Core/Node Classes Tests.vi"/>
 		<Item Name="Server Classes Tests.vi" Type="VI" URL="../Browser Core/Server Classes Tests.vi"/>
