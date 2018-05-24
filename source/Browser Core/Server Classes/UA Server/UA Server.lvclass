@@ -68,13 +68,22 @@
 	</Item>
 	<Item Name="Public API" Type="Folder">
 		<Item Name="Create UA Server Tree.vi" Type="VI" URL="../Create UA Server Tree.vi">
-			<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;Q#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!)Z!!!!%A!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AF&amp;=H*P=C"0&gt;81!"!!!!%"!=!!?!!!G%E*S&lt;X&gt;T:8)A1W^S:3ZM&gt;GRJ9B&amp;613"4:8*W:8)O&lt;(:D&lt;'&amp;T=Q!!$F6")&amp;.F=H:F=C"5=G6F!!!O1$,`````*&amp;2S&gt;8.U:71A5W6S&gt;G6S)%.F=H2J:GFD982F)':J&lt;'5A='&amp;U;!!!+%"!!!(`````!!9&lt;6(*V=X2F:#"4:8*W:8)A1W6S&gt;'FG;7.B&gt;'6T!"*!-0````])68.F=GZB&lt;75!!"*!-0````])5'&amp;T=X&gt;P=G1!!"R!5!!#!!A!#2&amp;6=W6S&lt;G&amp;N:3^198.T&gt;W^S:!!71&amp;!!!Q!!!!%!!AB&amp;=H*P=C"*&lt;A!!)%!S`````R&gt;$&lt;'FF&lt;H1A1W6S&gt;'FG;7.B&gt;'5A2GFM:1!R1"9!!Q2/&lt;WZF"&amp;.J:WY15WFH&lt;C"B&lt;G1A27ZD=HFQ&gt;!!!$%VF=X.B:W5A47^E:1!!+5!7!!))1G&amp;T;7-S.49.1G&amp;T;7-R-DB3=W%R.1!!#&amp;.F9X6S;82Z!!!;1&amp;!!!A!.!!Y05W6D&gt;8*J&gt;(EA5'^M;7.Z!"R!-0````]45W6S&gt;G6S)%6O:("P;7ZU)&amp;634!"5!0!!$!!$!!1!"!!&amp;!!1!"!!(!!I!#Q!-!!]!%!-!!(A!!!U)!!!!!!!!!!!!!!E!!!!!!!!!!!!!!AA!!!!)!!!!#A!!!!I!!!!)!!!!%A!!!!!"!"%!!!!!</Property>
+			<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;Q#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!)Z!!!!%A!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AF&amp;=H*P=C"0&gt;81!"!!!!%"!=!!?!!!G%E*S&lt;X&gt;T:8)A1W^S:3ZM&gt;GRJ9B&amp;613"4:8*W:8)O&lt;(:D&lt;'&amp;T=Q!!$F6")&amp;.F=H:F=C"5=G6F!!!O1$,`````*&amp;2S&gt;8.U:71A5W6S&gt;G6S)%.F=H2J:GFD982F)':J&lt;'5A='&amp;U;!!!+%"!!!(`````!!9&lt;6(*V=X2F:#"4:8*W:8)A1W6S&gt;'FG;7.B&gt;'6T!"*!-0````])68.F=GZB&lt;75!!"*!-0````])5'&amp;T=X&gt;P=G1!!"R!5!!#!!A!#2&amp;6=W6S&lt;G&amp;N:3^198.T&gt;W^S:!!71&amp;!!!Q!!!!%!!AB&amp;=H*P=C"*&lt;A!!)%!S`````R&gt;$&lt;'FF&lt;H1A1W6S&gt;'FG;7.B&gt;'5A2GFM:1!R1"9!!Q2/&lt;WZF"&amp;.J:WY15WFH&lt;C"B&lt;G1A27ZD=HFQ&gt;!!!$%VF=X.B:W5A47^E:1!!+5!7!!))1G&amp;T;7-S.49.1G&amp;T;7-R-DB3=W%R.1!!#&amp;.F9X6S;82Z!!!;1&amp;!!!A!.!!Y05W6D&gt;8*J&gt;(EA5'^M;7.Z!"R!-0````]45W6S&gt;G6S)%6O:("P;7ZU)&amp;634!"5!0!!$!!$!!1!"!!&amp;!!1!"!!(!!I!#Q!-!!]!%!-!!(A!!!U)!!!!!!!!!!!!!!E!!!!!!!!!!!!!!AA!!!!)!!!!#A!!!!A!!!!)!!!!%!!!!!!"!"%!!!!!</Property>
 			<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
-			<Property Name="NI.ClassItem.Flags" Type="Int">1073741824</Property>
+			<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
 			<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">true</Property>
 			<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
 			<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
 			<Property Name="NI.ClassItem.State" Type="Int">1107821074</Property>
+		</Item>
+		<Item Name="Delete Tree.vi" Type="VI" URL="../Delete Tree.vi">
+			<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;Q#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!$\!!!!#!!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!#"!5!!$!!!!!1!#%W6S=G^S)'FO)#BO&lt;S"F=H*P=CE!0E"Q!"Y!!#931H*P&gt;X.F=C"$&lt;X*F,GRW&lt;'FC%66")&amp;.F=H:F=CZM&gt;G.M98.T!!!-65%A5W6S&gt;G6S)'FO!!"5!0!!$!!$!!1!"!!%!!1!"!!%!!1!"1!%!!1!"A-!!(A!!!U)!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!#A!!!!!!!!!!!!!!E!!!!!!"!!=!!!!!</Property>
+			<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
+			<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
+			<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">false</Property>
+			<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
+			<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
+			<Property Name="NI.ClassItem.State" Type="Int">1107821072</Property>
 		</Item>
 	</Item>
 </LVClass>
