@@ -54,6 +54,7 @@
 			<Item Name="UA Server" Type="Folder">
 				<Item Name="Test Create UA Server Tree.vi" Type="VI" URL="../Browser Core/Server Classes/UA Server/Test Create UA Server Tree.vi"/>
 				<Item Name="Test Delete Tree.vi" Type="VI" URL="../Browser Core/Server Classes/UA Server/Test Delete Tree.vi"/>
+				<Item Name="Test New Node - UA Tree.vi" Type="VI" URL="../Browser Core/Server Classes/UA Server/Test New Node - UA Tree.vi"/>
 			</Item>
 			<Item Name="Base Tree Tests.vi" Type="VI" URL="../Browser Core/Server Classes/Base Tree Tests.vi"/>
 			<Item Name="UA Server Tests.vi" Type="VI" URL="../Browser Core/Server Classes/UA Server Tests.vi"/>
